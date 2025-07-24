@@ -17,26 +17,28 @@ There are five different types of coupons used for the analysis -- less expensiv
 ## Key Findings
 Overall coupon acceptance rate regardless of the type of coupon is 57% which confirms data is not skewed.
 
+<img width="620" height="495" alt="Screenshot 2025-07-24 at 2 23 15 AM" src="https://github.com/user-attachments/assets/9ea5f13f-fdad-478c-b38d-4e4da6cee1e4" />
+
 Further analysis was targeted on bar coupons. The accepatnce rate was studied against different aspects such as drivers frequency of bar visits, age, occupation, marital status. Acceptance rate seems to have some correlation with certain conditions:
 
 - Frequency of bar visits :
 
   Acceptance rate is 76% for drivers who go to bars more than three times a month compared to those who do not frequently go to a bar
-
-- Frequency of bar visits vs age : 
+ 
+- Frequency of bar visits & age : 
 
   Acceptance rate is 69% for drivers who go to bars more than once a month and over the age 25 compared to those who visit less than once and over 25.
   Acceptance rate is 72% for drivers who go to bars more than once a month and under 30.
   
-- Frequency of bar visits vs Passenger not a kid vs Occupation other than Farming,Fishing & Forestry :
+- Frequency of bar visits & Passenger not a kid & Occupation other than Farming,Fishing & Forestry :
 
   Acceptance rate is 71% when the driver who tends to go to bar more than once a month, travels wihtout a kid and not working in Farming,Fishing & Forestry sector.
 
-- Frequency of bar visits vs Passenger not a kid vs not widowed :
+- Frequency of bar visits & Passenger not a kid & not widowed :
 
   Acceptance rate is 71% when driver who tends to go to bar more than once a month, not widowed and travels wihtout a kid.
 
-- CheapRestaurant vs income : 
+- CheapRestaurant & Income : 
 
   Acceptance rate is 45% for a driver that goes to cheap restaurants and income less than 50K.
 
@@ -47,3 +49,13 @@ Those who choose cheapter retaurants and income < 50K have less chance of accept
 ## Recommendations
 
 The analysis of bar coupon acceptance rate can be extended to include more comparison such as single vs married, student vs employed, time of the day and geographical location of the user. 
+
+## Findings from Carry out & Take away coupon
+
+Overall acceptance rate for takeout coupons is 74%.
+
+<img width="645" height="498" alt="Screenshot 2025-07-24 at 2 29 20 AM" src="https://github.com/user-attachments/assets/4cecef92-f89d-4c84-b5bb-8ee3ebeadcbc" />
+
+- Acceptance rate is higher on Sunny day which is 76%.
+- Higher acceptance rate for drivers who takeout more than 3 times a month which is 74%
+- Higher acceptance rate for dinner coupon based on accepted coupons vs destination and time of the day data which is 79%.
