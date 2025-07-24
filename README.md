@@ -40,7 +40,8 @@ Further analysis was targeted on bar coupons. The accepatnce rate was studied ag
 
   Acceptance rate is 45% for a driver that goes to cheap restaurants and income less than 50K.
 
-Based on the above analysis, the acceptance rate of bar coupon is correlated to "Bar" data representing driver's frequency of bar visits and when'age' is in 25-30 range.
+Based on the above analysis, the acceptance rate of bar coupon is correlated to "Bar" data representing driver's frequency of bar visits is more than once( 1~3) and when'age' is in 20-30 range.
+Those who choose cheapter retaurants and income < 50K have less chance of accepting bar coupons.
   
   
 ## Recommendations
